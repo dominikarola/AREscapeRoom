@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibraryPuzzles
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5494728080848582706
+  m_GuidHigh: 10190007516915988915
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4834367562532485270
+      m_GuidHigh: 8584166607144148646
+    m_SerializedTextureGuid:
+      m_GuidLow: 5955081570657541636
+      m_GuidHigh: 4454597710680543834
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: fennec
+    m_Texture: {fileID: 2800000, guid: 1b849e04b32352a45ad2613204e9d13d, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5393251802594470523
+      m_GuidHigh: 6514847402116817594
+    m_SerializedTextureGuid:
+      m_GuidLow: 1879159862545499640
+      m_GuidHigh: 10711819453308523000
+    m_Size: {x: 0.14007783, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: cow
+    m_Texture: {fileID: 2800000, guid: 533245f81df01a14f8d192040a07a894, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5223793693995285101
+      m_GuidHigh: 313906589056307361
+    m_SerializedTextureGuid:
+      m_GuidLow: 15349644570876325013
+      m_GuidHigh: 7162172551272889467
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: zebra
+    m_Texture: {fileID: 2800000, guid: 4b962c95e469d5047b7cac12fd256563, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5010084744309868859
+      m_GuidHigh: 5911974359695234453
+    m_SerializedTextureGuid:
+      m_GuidLow: 13719109465994761529
+      m_GuidHigh: 5747050733495310920
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: lava
+    m_Texture: {fileID: 2800000, guid: 53511539115fbe6448da226431a0c14f, type: 3}

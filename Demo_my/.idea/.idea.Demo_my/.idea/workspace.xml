@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b40a3218-b0a7-424a-a804-fbb46762d53e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scale.cs" />
+        <option value="$PROJECT_DIR$/Assets/Standard Assets/Utility/SimpleActivatorMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ParticleSamples.cs" />
+        <option value="$PROJECT_DIR$/Assets/portalWindow.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Slide.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CountDown.cs" />
+        <option value="$PROJECT_DIR$/Assets/CountDownTimer.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nO9lAETmfksj8txdLu159yAnVA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b40a3218-b0a7-424a-a804-fbb46762d53e" name="Default Changelist" comment="" />
+      <created>1611250422469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611250422469</updated>
+      <workItem from="1611250424930" duration="2062000" />
+      <workItem from="1611252510036" duration="1790000" />
+      <workItem from="1611254325300" duration="1689000" />
+      <workItem from="1611256970955" duration="1799000" />
+      <workItem from="1611262586167" duration="2944000" />
+      <workItem from="1611271846616" duration="19000" />
+      <workItem from="1611274359680" duration="5000" />
+      <workItem from="1611274384518" duration="1139000" />
+      <workItem from="1611317075287" duration="265000" />
+      <workItem from="1611317543935" duration="1507000" />
+      <workItem from="1611322955446" duration="1797000" />
+      <workItem from="1611325749097" duration="926000" />
+      <workItem from="1611327630947" duration="631000" />
+      <workItem from="1611330054749" duration="1843000" />
+      <workItem from="1611332002569" duration="703000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
